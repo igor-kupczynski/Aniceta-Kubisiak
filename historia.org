@@ -1,0 +1,61 @@
+#+TITLE: Historia
+#+AUTHOR: Aniceta Kubisiak
+
+W 675-tą rocznicę dziejów miasta Drukarnia Prądzyńskiego wydała "Przyczynek do
+dziejów historyczno--kulturalnych Ziemi Wrzesińskiej" pt. "Września --- jej
+ziemia i mieszkańcy" 500 egz. Autorem jest Akademickie Koło Wrześnian. Mottem
+jest cytat z Norwida "Kto się oderwał od sumienia tradycji,
+dziczeje". Interesuje mnie nazewnictwo miejscowości opracowane przez
+Ks. Kozierowskiego w pracy "Badania gnieźnieńskie, poznańskie i Ród
+Porajów–Różyców".
+
+Osobiście wiele wątpliwości mam do tych wyjaśnień, ale trzeba korzystać z
+wielu źródeł, by dociec prawdy.
+
+* Gutowo Wielkie i Małe
+
+Rok 1357. Dawniej Gutowo Nowe i Stare. Zawiera imię czy przydomek Gut. Jako
+nazwa pospolita oznacza /gut/ drzewo krzywe, /guty/ --– kłody, pnie.
+
+Wg Sliwczyńskich:
+#+BEGIN_QUOTE
+... piętrowy dwór z końca XIX w. Na początku XX w. Powstała jedna z siedmiu na
+ziemi wrzesińskiej spółek melioracyjnych. W 1932r. Założono kółko rolnicze,
+a w 1934r. Ochotniczą Straż Pożarną.
+#+END_QUOTE
+
+
+* Nadarzyce
+
+Pochodzi od tzw. nazw odojcowskich czyli patronimików. Pierwsza wzmianka z
+1363r. Nazywano też Nadarszycami od nazwiska Nadarsza. Obok tego nazwisko
+Nadarza, stąd Nadarzyn, Nadarzyce. Może też Nadar, bo dziś znane Nader. Pod
+Nadarzycami osada Strachowiec, tylko, gdzie to mogło być?
+
+"Ziemia wrzesińska" --– Klaudia Matelska i Dariusz Matelski
+wyd. Kwadrat:
+
+#+BEGIN_QUOTE
+Nadarzyce. W XVI w. Dzieliła się na dwie części o nieistniejących już dziś
+nazwach --- Nadarzice Wielkie i Nadarzice Małe. Według rejestru
+z 1578r. Nadarzice Wielkie były własnością Anny Gałczyńskiej, a Nadarzice Małe
+należały do Nadarzyckich. W latach 80-tych XIX w.mieszkało 129 osób
+(5 ewangelików, 124 katolików, w tym 59 analfabetów) w 7 domostwach. Nadarzyce
+należały do dóbr wrzesińskich hr. Edwarda Ponińskiego. Obecnie wieś
+zamieszkują 74 osoby.
+#+END_QUOTE
+
+* Zdziechowo
+
+Zdziech od Zdzisław. Nieistniejąca osada między Zydowem a Grabowem
+Królewskim. Dużo wykopalisk z XIX i XX w.
+
+* Gorazdowo
+
+Wg. Sliwczyńskich pierwsza wzmianka z 1357, a wg. Akademickiego Koła Wrześnian
+z 1398r. Nazwisko Gorazd. Dziś w rosyjskim jest przymiotnik gorazdyj, co
+znaczy doświadczony, sprawny.
+
+# Local Variables:
+# ispell-local-dictionary: "polish"
+# End:
