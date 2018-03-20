@@ -1,0 +1,19 @@
+#+TITLE: Aniceta Kubisiak --- dokumenty
+#+AUTHOR: Igor Kupczyński
+
+Repozytorium zawiera dokumenty odzyskane z komputera mojej kochanej Babci ---
+Anicety Kubisiak.
+
+Odzyskane dokumenty zostały napisane w open office lub abi word, a przed
+umieszczeniem ich tutaj przekonwertowane do tekstu:
+
+- [[historia.org][Historia]]
+- [[mg%C5%82a.org][Mgła]]
+- [[mi%C5%82o%C5%9B%C4%87.org][Miłość]]
+- [[przepisy.org][Przepisy]]
+
+Najdłuższy tekst to /Mgła/, zawierający wspomnienia z trudnego dzieciństwa.
+
+# Local Variables:
+# ispell-local-dictionary: "polish"
+# End:
