@@ -1,20 +1,22 @@
-= Oświata w Gminie Kołaczkowo do r.1980 (szkic monograficzny).
-Aniceta Kubisiak
+* Oświata w Gminie Kołaczkowo do r.1980 (szkic monograficzny).
 
-== Motto
+/Aniceta Kubisiak/
 
-___________________________________________________________________________________________________________
+** Motto
+
+#+BEGIN_QUOTE
 My potrafimy karmić dusze milionów własnymi sercami, ale sami zawsze na
 próżno łakniemy odrobiny szczęścia.
 
 — Władysław St.Reymont
-___________________________________________________________________________________________________________
+#+END_QUOTE
+
 
 *Oświata w Gminie Kołaczkowo do r.1980 (szkic monograficzny).*
 
-_____________________
+#+BEGIN_QUOTE
 ocalić od zapomnienia
-_____________________
+#+END_QUOTE
 
 — cytatem z "Pieśni" Gałczyńskiego nazwaliśmy naszą gazetkę szkolną.
 Pragniemy utrwalić w pamięci mieszkańców Gminy i naszych uczniów bardzo
@@ -33,19 +35,19 @@ Jednak to, co zawarte jest w tej gazetce, pozwoli chociaż częściowo
 zachować pamięć o tych miejscach i tych ludziach, którzy są najmilszym
 wspomnieniem z czasów dzieciństwa i młodości każdego człowieka.
 
-_Aniceta Kubisiak_
+/Aniceta Kubisiak/
 
-== Szkoła w Kołaczkowie
+** Szkoła w Kołaczkowie
 
 
-_Aniceta Kubisiak_
+/Aniceta Kubisiak/
 
 Według historycznych źródeł szkoła w Kołaczkowie istniała już w 1695 r.
 Trudno jest jednak zlokalizować miejsce, gdzie przez okres dwóch wieków
 odbywały się zajęcia lekcyjne. Wiadomo natomiast, że od roku 1898 szkoła
 mieściła się w budynku probostwa.
 
-`[Zdjęcie]`
+=[Zdjęcie]=
 
 Ponieważ budynek ten uległ zniszczeniu, dziedzic zgodził się, aby jedną
 salę w pałacu oddać na potrzeby nauki szkolnej. W 1906 r. przeniesiono
@@ -53,7 +55,7 @@ szkołę do Łagiewek i tam przez okres 8 lat uczęszczały dzieci z
 Kołaczkowa i okolicznych wiosek. Taki stan trwał do roku 1914 —
 wybuchu I wojny światowej.
 
-`[Zdjęcie]`
+=[Zdjęcie]=
 
 Właściwe powstanie szkoły datuje się z chwilą wyzwolenia Ojczyzny w 1918
 r. Wówczas to w budynku Komisariatu Policji zlokalizowano szkołę polską.
@@ -61,7 +63,7 @@ Była to w okresie międzywojennym szkoła jednoklasowa o 1 nauczycielu.
 Dzieci kończyły na miejscu 3 lub 4 klasy a następnie uczęszczały do
 Wszemborza.
 
-`[Zdjęcie]`
+=[Zdjęcie]=
 
 Rok 1939, rok nieszczęścia i klęski Narodu Polskiego, powoduje
 zamknięcie polskiej szkoły. W zimie 1940 r. utworzona zostaje szkoła dla
@@ -81,12 +83,12 @@ się 21 listopada 1964 r., natomiast uroczystość oddania budynku do
 użytku datuje się na 29 sierpnia 1965 r. W roku szkolnym 1966.67
 wprowadzono klasę ósmą.
 
-`[Zdjęcie]`
+=[Zdjęcie]=
 
 Imię Władysława Reymonta nadano szkole 7 maja 1967 r. W dniu ty dokonano
 odsłonięcia tablicy pamiątkowej poświęconej Patronowi Szkoły.
 
-`[Zdjęcie]`
+=[Zdjęcie]=
 
 W związku z reorganizacją administracji państwowej w 1973 r. powołano
 Gminnego Dyrektora Szkół, natomiast Zbiorcza Szkoła Gminna w Kołaczkowie
@@ -95,7 +97,7 @@ im. Władysława Reymonta w Kołaczkowie było zdobycie i wręczenie
 sztandaru 6 maja 1978 r.
 
 
-=== Nauczyciele szkoły w Kołaczkowie w latach 1918–1980
+*** Nauczyciele szkoły w Kołaczkowie w latach 1918–1980
 
 1.  Cebulski
 2.  Gondelowa
@@ -142,7 +144,7 @@ sztandaru 6 maja 1978 r.
 43. Antkowiak Stanisław
 44. Rachubiński Rafał
 
-=== Nauczyciele Szkoły Przysposobienia Rolniczego
+*** Nauczyciele Szkoły Przysposobienia Rolniczego
 
 1.  Miszczuk Jadwiga
 2.  Małolepszy Marian
@@ -151,10 +153,10 @@ sztandaru 6 maja 1978 r.
 5.  Szablikowski Lechosław
 
 
-== Szkoła w Borzykowie
+** Szkoła w Borzykowie
 
 
-_Aniceta Kubisiak_
+/Aniceta Kubisiak/
 
 Zbyt mało materiałów źródłowych istnieje na naszym terenie, aby można
 było przedstawić dawniejsze dzieje szkoły w Borzykowie. Z przekazów
@@ -183,7 +185,7 @@ Na podkreślenie zasługuje postawa społeczeństwa Borzykowa, jego
 serdeczny stosunek do szkoły, zaangażowanie i wszechstronna pomoc
 okazana w ciągu całego istnienia placówki.
 
-=== Nauczyciele uczący w Borzykowie w latach 1945–1980
+*** Nauczyciele uczący w Borzykowie w latach 1945–1980
 
 1.  Pogodziński Stanisław, 5.II.1945–1946
 2.  Liebthalówna Prakseda, 1945
@@ -208,9 +210,9 @@ okazana w ciągu całego istnienia placówki.
 21. Ilska Helena, 1967–1968
 22. Koralewska Zofia, 1968
 
-== Szkoła w Gorazdowie
+** Szkoła w Gorazdowie
 
-_Aniceta Kubisiak_
+/Aniceta Kubisiak/
 
 W mroku dziejów trudno ustalić datę powstania szkoły. Faktem jest, że
 istniała, a znajdowała się, według relacji mieszkańców, w budynku
@@ -252,7 +254,7 @@ miejsce powstaje Punkt Filialny w Gorazdowie o 3 nauczycielach. Dzieci z
 klas starszych dowożone są do Zbiorczej Szkoły Gminnej w Kołaczkowie. W
 1978 r. obniżono stopień organizacyjny do 3 klas.
 
-=== Nauczyciele szkoły w Gorazdowie w latach 1889–1980
+*** Nauczyciele szkoły w Gorazdowie w latach 1889–1980
 
 1.  Nelke
 2.  Pady
@@ -295,12 +297,12 @@ klas starszych dowożone są do Zbiorczej Szkoły Gminnej w Kołaczkowie. W
 37. Szalaty Maria, 1979
 38. Helak Danuta, 1980
 
-`[Zdjęcie]`
+=[Zdjęcie]=
 
 
-== Szkoła we Wszemborzu
+** Szkoła we Wszemborzu
 
-_Stefania Lisiecka_
+/Stefania Lisiecka/
 
 Czas założenia pierwszej szkoły we Wszemborzu nie dał się ustalić.
 Pewnym jest tylko, że już około 1840 roku szkoła we Wszemborzu istniała.
@@ -344,9 +346,9 @@ niej 4 nauczycieli. Taki stan utrzymywał się do roku 1966. W latach
 potem o 6-ciu. Obecnie jest to punk filialny Zbiorczej Szkoły Gminnej w
 Kołaczkowie z klasami I–III.
 
-`[Zdjęcie]`
+=[Zdjęcie]=
 
-=== Nauczyciele szkoły we Wszemborzu w latach 1918–1980
+*** Nauczyciele szkoły we Wszemborzu w latach 1918–1980
 
 1.  Kahl, do 1919
 2.  Machałowski Józef, 1919/1920
@@ -386,9 +388,9 @@ Kołaczkowie z klasami I–III.
 36. Helwing Zofia
 37. Korzeniewska Danuta
 
-== Szkoła w Zielińcu
+** Szkoła w Zielińcu
 
-_Halina Starosta_
+/Halina Starosta/
 
 Pierwsze wzmianki o istnieniu szkoły w Zielińcu pochodzą z 1695r.
 Następne dane o szkole mamy dopiero z roku 1899, kiedy to na okres 5 lat
@@ -407,10 +409,10 @@ przerwą w okresie wojennym.
 
 Na terenie szkoły istniały w tym czasie różne organizacje uczniowskie:
 
-* Koło Samorządu Szkolnego
-* Koło L.O.P.P
-* Koło PCK
-* Spółdzielnia uczniowska "Iskierka"
+- Koło Samorządu Szkolnego
+- Koło L.O.P.P
+- Koło PCK
+- Spółdzielnia uczniowska "Iskierka"
 
 Podczas okupacji 1939–1945r. szkołę przeznaczono dla dzieci
 niemieckich.
@@ -438,11 +440,11 @@ Dzieci z Zielińca uczęszczały do Szkoły Podstawowej w Gozdowie, dopiero
 od roku 1977 dowozi się je do Zbiorczej Szkoły Gminnej w Kołaczkowie.
 Szkoła w Zielińcu jest Punktem Filialnym o klasach I–III.
 
-`[Zdjęcie]`
+=[Zdjęcie]=
 
-`[Zdjęcie]`
+=[Zdjęcie]=
 
-=== Nauczyciele szkoły w Zielińcu w latach 1910–1980
+*** Nauczyciele szkoły w Zielińcu w latach 1910–1980
 
 1.  Linke Stefan, 1899
 2.  Donajkowski, 1914
@@ -462,9 +464,9 @@ Szkoła w Zielińcu jest Punktem Filialnym o klasach I–III.
 16. Ciosek Barbara, 1978–1980
 17. Rachubińska Karina, 20.VIII.1980
 
-== Szkoła w Sokolnikach
+** Szkoła w Sokolnikach
 
-_Marek Jakubowski_
+/Marek Jakubowski/
 
 Pierwsze zapiski o miejscowości Sokolniki pochodzą z roku 1286.
 Natomiast pierwsza wzmianka o szkole w Sokolnikach datuje się z roku
@@ -560,16 +562,16 @@ zostają przeniesione do jednego budynku w Szamarzewie. W jednym z
 budynków szkolnych zostaje utworzone przedszkole oraz mieszkanie dla
 nauczyciela.
 
-`[Zdjęcie]`[Dawny budynek szkolny. Obecnie siedziba przedszkola.]
+=[Zdjęcie]=[Dawny budynek szkolny. Obecnie siedziba przedszkola.]
 
 Budynek szkolny za mleczarnią został przebudowany i zamieniony na
 mieszkania dla nauczycieli.
 
-`[Zdjęcie]`[Dawny budynek szkolny. Obecnie dom nauczyciela.]
+=[Zdjęcie]=[Dawny budynek szkolny. Obecnie dom nauczyciela.]
 
-=== Nauczyciele szkoły w Sokolnikach
+*** Nauczyciele szkoły w Sokolnikach
 
-==== Lata 1890 – 1939
+**** Lata 1890 – 1939
 
 1.  Biczysko Kazimierz
 2.  Biczyskówna Pelagia
@@ -582,57 +584,56 @@ mieszkania dla nauczycieli.
 9.  Hamerski Bolesław
 10. Pogłodziński Stanisław
 
-==== Lata 1945 – 1950
+**** Lata 1945 – 1950
 
-[start=11]
-1.  Galantówna Władysława
-2.  Marciniak Józef
-3.  Rosicka Hanna
-4.  Parchimowicz Stanisława
-5.  Tomczak Bogusława
-6.  Broniecki Jan
-7.  Konczewska Tekla
-8.  Urbańska Jadwiga
-9.  Gryka Apolonia
-10. Gryka Jan
-11. Kozłowska Barbara
-12. Winiecka Kornelia
-13. Pruszkowski Bolesław
 
-=== Lata 1950 – 1976
+11. [@11] Galantówna Władysława
+12. Marciniak Józef
+13. Rosicka Hanna
+14. Parchimowicz Stanisława
+15. Tomczak Bogusława
+16. Broniecki Jan
+17. Konczewska Tekla
+18. Urbańska Jadwiga
+19. Gryka Apolonia
+20. Gryka Jan
+21. Kozłowska Barbara
+22. Winiecka Kornelia
+23. Pruszkowski Bolesław
 
-[start=24]
-1.  Pera Józef
-2.  Umińska Zofia
-3.  Umiński Zdzisław
-4.  Bogusz Roman
-5.  Sierakowski Henryk
-6.  Miśkowiak Irena
-7.  Kazimierczak Michalina
-8.  Andrzejczak Cecylia
-9.  Jóźwiak Hieronim
-10. Pacyńska Barbara
-11. Wojciechowska Kazimiera
-12. Potasińska Mirosława
-13. Stolarska Jadwiga
-14. Paprocka Jadwiga
-15. Wróblewska Halina
-16. Pocztarek Jan
-17. Chojnacka Stefania
-18. Głowacka Aleksandra
-19. Maciejewski Jan
-20. otylewska Aleksandra
-21. Lisiak Anna
-22. Skadłubowicz Anna
-23. Sakowska Janina
-24. Sakowski Andrzej
-25. Jakubowski Marek
-26. Marcinak Henryka
-27. Antkowiak Stanisław
+**** Lata 1950 – 1976
 
-== Szkoła w Grabowie Królewskim
+24. [@24] Pera Józef
+25. Umińska Zofia
+26. Umiński Zdzisław
+27. Bogusz Roman
+28. Sierakowski Henryk
+29. Miśkowiak Irena
+30. Kazimierczak Michalina
+31. Andrzejczak Cecylia
+32. Jóźwiak Hieronim
+33. Pacyńska Barbara
+34. Wojciechowska Kazimiera
+35. Potasińska Mirosława
+36. Stolarska Jadwiga
+37. Paprocka Jadwiga
+38. Wróblewska Halina
+39. Pocztarek Jan
+40. Chojnacka Stefania
+41. Głowacka Aleksandra
+42. Maciejewski Jan
+43. otylewska Aleksandra
+44. Lisiak Anna
+45. Skadłubowicz Anna
+46. Sakowska Janina
+47. Sakowski Andrzej
+48. Jakubowski Marek
+49. Marcinak Henryka
+50. Antkowiak Stanisław
 
-_Zbigniew Królikowski_
+** Szkoła w Grabowie Królewskim
+
+/Zbigniew Królikowski/
 
 Pierwsze wzmianki dotyczące oświaty w Grabowie Królewskim pochodzą z
 1965 roku. Tyle mówią stare dokumenty, dalsze dzieje zapisane zostały w
@@ -701,11 +702,11 @@ pomocami naukowymi za sumę około 400 tys. złotych.
 Życzymy zatem na przyszłość dalszego rozowju tej szkole o tak długiej i
 dobrej tradycji.
 
-`[Zdjęcie]`
+=[Zdjęcie]=
 
-=== Nauczyciele szkoły w Grabowie Królewskim
+*** Nauczyciele szkoły w Grabowie Królewskim
 
-==== Lata 1906 – 1939
+**** Lata 1906 – 1939
 
 1.  Dobrogowski, 1906
 2.  Wagner, do 1918
@@ -724,60 +725,59 @@ dobrej tradycji.
 14. Menzówna Elżbieta, praktyka bezpłatna
 15. Żak Tadeusz, 1938/1939
 
-==== Lata 1945–1980
+**** Lata 1945–1980
 
-[start=16]
-. Woźniak Aleksander, 15.02.1945 – 30.09.1945
-. Woźniakówna Maria, 15.02.1945 – 31.03.1945
-. Michalska Zofia, 7.04.1945 – 7.06.1945
-. Piekarczykówna Józefina, 7.06.1945 – 26.11.1945
-. Golachowska Jadwiga, 1.08.1945 – 30.09.1945
-. Korytowski Melchior, 1.10.1945 – 20.09.1945
-. Gizelewska Bonifacja, 15.10.1945 – 27.02.1948
-. Fiszer Jan, 1.04.1946 – 30.06.1946
-. Michalska Zofia, 4.09.1945 – do obecnie
-. Bałaży Leokadia, 1.03.1948 – 31.08.1950
-. Giżewska Krescencja,10.09.1950 – 30.09.1950
-. Kłosik Mieczysława, 10.09.1950 – 31.08.1954
-. Pilarska Janina, 25.11.1950 – do obecnie
-. Korytowski Melchior, 1.07.1951 – 25.06.1971
-. Bogusz Roman, 1.12.1950 – 22.06.1951
-. Pawlik Stanisław, 1.09.1954 – 5.12.1955
-. Walkowska Łucja, 10.01.1956 – 30.06.1964
-. Batura Tadeusz, 5.11.1962 – 26.05.1963
-. Borowiak Andrzej, 1.09.1963 – 31.07.1964
-. Strzelecka Anna, 15.08.1965 – 31.08.1967
-. Kaczor Benigna, 1.09.1965 – 31.08.1967
-. Walczak Maria, 12.02.1966 – 6.10.1966
-. Łukasiewicz Zofia, 1.11.1966 – 22.06.1969
-. Tasiemska Sabina, 1.09.1967 – 31.08.1974
-. Koralewska Danuta, 15.11.1967 – 22.06.1968
-. Wróbel Henryka, 24.04.1968 – 22.06.1968
-. Brożyński Wiktor, 1.09.1967 – 20.04.1968
-. Grajek Jolanta, 15.08.1968 – 1.09.1973
-. Sczaniecka Jadwiga, 15.08.1968 – 31.08.1974
-. Wiśniewska Elżbieta, 15.08.1968 – 22.06.1969
-. Szczepaniak Anna, 1.09.1969 – do obecnie
-. Zaremba Maria, 1.09.1969 – 24.06.1972
-. Urbańska Alicja, 1.09.1970 – 26.06.1971
-. Gałuszewska Marianna, 1.09.1971 – 24.06.1972
-. Balicka Jolanta, 1.09.1971 – 24.06.1972
-. Galoch Maria, 1.09.1972 – do obecnie
-. Robakowska Laura, 1.09.1972 – 26.05.1973
-. Wizła Danuta, 1.09.1973 – do obecnie
-. Skolimowska Krystyna, 1.09.1973 – 20.08.1979
-. Murawiecka Ludwika, 1.09.1974 – do obecnie
-. Murawiecki Franciszek, 1.09.1974 – do obecnie
-. Pilarczyk Zofia, 1.09.1974 – 20.08.1975
-. Korytowska Jadwiga, 21.08.1976 – do obecnie
-. Pietrus Elżbieta, 20.08.1979 – do obecnie
-. Rychlik Bolesław, 20.08.1979 – do obecnie
-. Graczyk Helena, 3.02.1980 – 10.04.1980
-. Fórmaniak Elżbieta, 8.09.1980
+16. [@16] Woźniak Aleksander, 15.02.1945 – 30.09.1945
+17. Woźniakówna Maria, 15.02.1945 – 31.03.1945
+18. Michalska Zofia, 7.04.1945 – 7.06.1945
+19. Piekarczykówna Józefina, 7.06.1945 – 26.11.1945
+20. Golachowska Jadwiga, 1.08.1945 – 30.09.1945
+21. Korytowski Melchior, 1.10.1945 – 20.09.1945
+22. Gizelewska Bonifacja, 15.10.1945 – 27.02.1948
+23. Fiszer Jan, 1.04.1946 – 30.06.1946
+24. Michalska Zofia, 4.09.1945 – do obecnie
+25. Bałaży Leokadia, 1.03.1948 – 31.08.1950
+26. Giżewska Krescencja,10.09.1950 – 30.09.1950
+27. Kłosik Mieczysława, 10.09.1950 – 31.08.1954
+28. Pilarska Janina, 25.11.1950 – do obecnie
+29. Korytowski Melchior, 1.07.1951 – 25.06.1971
+30. Bogusz Roman, 1.12.1950 – 22.06.1951
+31. Pawlik Stanisław, 1.09.1954 – 5.12.1955
+32. Walkowska Łucja, 10.01.1956 – 30.06.1964
+33. Batura Tadeusz, 5.11.1962 – 26.05.1963
+34. Borowiak Andrzej, 1.09.1963 – 31.07.1964
+35. Strzelecka Anna, 15.08.1965 – 31.08.1967
+36. Kaczor Benigna, 1.09.1965 – 31.08.1967
+37. Walczak Maria, 12.02.1966 – 6.10.1966
+38. Łukasiewicz Zofia, 1.11.1966 – 22.06.1969
+39. Tasiemska Sabina, 1.09.1967 – 31.08.1974
+40. Koralewska Danuta, 15.11.1967 – 22.06.1968
+41. Wróbel Henryka, 24.04.1968 – 22.06.1968
+42. Brożyński Wiktor, 1.09.1967 – 20.04.1968
+43. Grajek Jolanta, 15.08.1968 – 1.09.1973
+44. Sczaniecka Jadwiga, 15.08.1968 – 31.08.1974
+45. Wiśniewska Elżbieta, 15.08.1968 – 22.06.1969
+46. Szczepaniak Anna, 1.09.1969 – do obecnie
+47. Zaremba Maria, 1.09.1969 – 24.06.1972
+48. Urbańska Alicja, 1.09.1970 – 26.06.1971
+49. Gałuszewska Marianna, 1.09.1971 – 24.06.1972
+50. Balicka Jolanta, 1.09.1971 – 24.06.1972
+51. Galoch Maria, 1.09.1972 – do obecnie
+52. Robakowska Laura, 1.09.1972 – 26.05.1973
+53. Wizła Danuta, 1.09.1973 – do obecnie
+54. Skolimowska Krystyna, 1.09.1973 – 20.08.1979
+55. Murawiecka Ludwika, 1.09.1974 – do obecnie
+56. Murawiecki Franciszek, 1.09.1974 – do obecnie
+57. Pilarczyk Zofia, 1.09.1974 – 20.08.1975
+58. Korytowska Jadwiga, 21.08.1976 – do obecnie
+59. Pietrus Elżbieta, 20.08.1979 – do obecnie
+60. Rychlik Bolesław, 20.08.1979 – do obecnie
+61. Graczyk Helena, 3.02.1980 – 10.04.1980
+62. Fórmaniak Elżbieta, 8.09.1980
 
-== Szkoła w Szamarzewie
+** Szkoła w Szamarzewie
 
-_Bogdan Dobrowolski_
+/Bogdan Dobrowolski/
 
 Pierwsza wzmianka o istnieniu szkoły w Szamarzewie znajduje się w opracowaniu
 monograficznym "Ziemia Wrzesińska" rok 1695. Druga data to rok 1826, która
@@ -838,7 +838,7 @@ Gniezna. Dnia 14.VIII tegoż roku odbyła się uroczystość wmurowania aktu
 erekcyjnego pod nowy budynek szkolny. Dnia 28.XI.1960 r. nastąpiła uroczystość
 przekazania nowego budynku szkolnego do użytku.
 
-`[Zdjęcie]`
+=[Zdjęcie]=
 
 Szkoła Podstawowa w Szamarzewie do 1953 r. była placówką z klasami
 I--IV. Klasa V została wprowadzona od 1.IX.1953 r. (uczyło 2 nauczycieli). W
@@ -861,7 +861,7 @@ przeznaczeniem na świetlicę wiejską.
 Do Szamarzewa przeszli wszyscy uczniowie i nauczyciele z Sokolnik. Dzieci
 są dowożone przyczepą "Jelcz" przez SKR oraz osinobusem PGR z Bieganowa.
 
-=== Nauczyciele szkoły w Szamarzewie w latach 1835 -- 1980
+*** Nauczyciele szkoły w Szamarzewie w latach 1835 -- 1980
 
 1. Liczbański, od 1935 r.
 2. Obarski, od 1873 r.
@@ -919,15 +919,17 @@ są dowożone przyczepą "Jelcz" przez SKR oraz osinobusem PGR z Bieganowa.
 51. Rajch Grażyna, 1979 do obecnie
 52. Grześ Grażyna, 1980 do obecnie
 
-== Szkoła w Bieganowie
+** Szkoła w Bieganowie
 
-_Mirosława Owsińska_
-
-== Szkoła w Gałęzewicach
-
-_Halina Jaśkiewicz_
+/Mirosława Owsińska/
 
 
-// Local Variables:
-// ispell-local-dictionary: "polish"
-// End:
+
+** Szkoła w Gałęzewicach
+
+/Halina Jaśkiewicz/
+
+
+# Local Variables:
+# ispell-local-dictionary: "polish"
+# End:
