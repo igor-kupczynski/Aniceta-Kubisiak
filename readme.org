@@ -1,5 +1,6 @@
 #+TITLE: Aniceta Kubisiak --- dokumenty
 #+AUTHOR: Igor Kupczyński
+* Odzyskane dokumenty
 
 Repozytorium zawiera dokumenty odzyskane z komputera mojej kochanej Babci ---
 Anicety Kubisiak.
@@ -13,6 +14,11 @@ umieszczeniem ich tutaj przekonwertowane do tekstu:
 - [[przepisy.org][Przepisy]]
 
 Najdłuższy tekst to /Mgła/, zawierający wspomnienia z trudnego dzieciństwa.
+
+* Oświata w Gminie Kołaczkowo do r. 1980
+
+Przepisana z maszynopisu [[o%C5%9Bwiata w gminie ko%C5%82aczkowo/szkoly.org][Oświata w Gminie Kołaczkowo do r.1980 --- szkic
+monograficzny]].
 
 # Local Variables:
 # ispell-local-dictionary: "polish"
